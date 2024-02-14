@@ -13,7 +13,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
-    <title>yield('pageTitle')</title>
+    <title>@yield('pageTitle')</title>
     <!-- CSS files -->
     <base href="/">
     <link href="./back/dist/css/tabler.min.css?1684106062" rel="stylesheet"/>
