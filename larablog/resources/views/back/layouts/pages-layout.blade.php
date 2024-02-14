@@ -34,7 +34,7 @@
     </style>
   </head>
   <body >
-    <script src="./back/dist/js/demo-theme.min.js?1684106062"></script>
+    <script src="./back/dist/js/demo-theme.min.js?1684106062"></script> 
     <div class="page">
       <!-- Navbar -->
       @include('back.layouts.inc.header')
